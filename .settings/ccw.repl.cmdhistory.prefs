@@ -1,0 +1,2 @@
+cmdhistory=["(+ 1 1)" "(+ 2 3)" "(foo)" "(foo 'hey')" "foo" "(foo)" "greet \\"zac\\"" "(greet 'zac')" "(greet \\"zac\\")" "(+ 1 1\\n   )" "(slurp \\"https\://clojuredocs.org/clojure.core/slurp\\")" "slurp(\\"1.txt\\")" "(slurp \\"1.txt\\")" "(slurp \\"cust.txt\\")" "(slurp \\"prod\\n.txt\\")" "(slurp \\"prod.txt\\")" "(slurp \\"sales.txt\\")"]
+eclipse.preferences.version=1
